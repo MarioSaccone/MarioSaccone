@@ -4,6 +4,7 @@ Ciao! Mi chiamo **Mario**, ho 20 anni e sono un grande appassionato di tecnologi
 
 
 [Il mio cv](https://github.com/MarioSaccone/Cv_Mario_Saccone)
+
 Email: [mariosaccone007@gmail.com]. 
 
 💡 *Sono sempre alla ricerca di nuove sfide e pronto a mettermi in gioco!*
